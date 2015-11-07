@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Memorable Places
 //
-//  Created by Rob Percival on 13/03/2015.
+//  Created by  Mohammed Nasir on 13/03/2015.
 //  Copyright (c) 2015 Appfish. All rights reserved.
 //
 
