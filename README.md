@@ -7,8 +7,8 @@ Memorable Places- This application is made when i was learning more and more abo
 
 Stop-Watch - A simple stop watch application
 
-Tic-Tac-Toe - A game applications of the infamous tic tac toe
+Tic-Tac-Toe - A infamous tic tac toe game application
 
-To-do-List - A simple to-do-list application
+To-do-List - A to-do-list application
 
-Whats-the-Weather - A simple weather application which takes all the information from a weather forecast website and displays all the information in the app.
+Whats-the-Weather - A weather application which takes all the information from a weather forecast website and displays all the information in the app.
