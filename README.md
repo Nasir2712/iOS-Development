@@ -1,5 +1,5 @@
 # iOS-Development
-Some of my projects that i have worked on the last year. I wanted to try something new and iOS development was so interesting especially learning Swift 2.0.
+Some of my projects that i have worked on last year. I wanted to try something new and iOS development was so interesting especially learning Swift 2.0.
 
 Instagram Clone - This application is made using Swift 2.0 and Parse. This application is a clone of instagram where a user can add in images, follow and unfollow other users. The user can also upload images and view other users posts on its newsfeed.
 
